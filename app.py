@@ -69,7 +69,7 @@ trained = False
 persons = []
 
 # Inicia a leitura do video
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 # Carrega o classificador Haar Cascade
 face_cascade = cv2.CascadeClassifier(r'C:\Users\eduardo.couto\Desktop\ReconhecimentoFacial + Banco de Dados\haarcascade_frontalface_default.xml')
 # Carrega o recognizer - "pip install opencv_contrib_python"
