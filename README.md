@@ -19,8 +19,8 @@ pip install -r requirements.txt
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seuusuario/seuprojeto.git
-cd seuprojeto
+git clone https://github.com/eduardoccouto/ReconhecimentoFacial---Banco-de-Dados.git
+cd ReconhecimentoFacial---Banco-de-Dados
 ```
 
 2. Execute o script principal:
